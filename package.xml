@@ -1,19 +1,19 @@
 <?xml version="1.0"?>
 <package>
     <name>Magefast_UkrainianRegions</name>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <stability>stable</stability>
-    <license uri="http://www.opensource.org/licenses/osl-3.0.php">OSL v3.0</license>
+    <license>AFL</license>
     <channel>community</channel>
     <extends/>
-    <summary>List of Ukrainian regions.</summary>
-    <description>List of Ukrainian regions to use with Magento.&#xD;
-Added for English, Ukrainian &amp; Russian language.</description>
-    <notes>English, Ukrainian &amp; Russian language.</notes>
-    <authors><author><name>Alex</name><user>alexhost</user><email>b07400@yandex.ru</email></author></authors>
-    <date>2014-05-20</date>
-    <time>18:20:46</time>
-    <contents><target name="mage"><dir name="app"><dir name="code"><dir name="community"><dir name="Magefast"><dir name="UkrainianRegions"><dir name="data"><dir name="ukrainianregions_setup"><file name="data-install-1.0.1.php" hash="a771bb9578db3ab2709cfd1e0474fff6"/></dir></dir><dir name="etc"><file name="config.xml" hash="6376bac5ebc77d1af3227d21f944420e"/></dir></dir></dir></dir></dir><dir name="etc"><dir name="modules"><file name="Magefast_UkrainianRegions.xml" hash="f9800be98f103a2f6427e92d86df5da9"/></dir></dir></dir></target></contents>
+    <summary>List of Ukrainian regions</summary>
+    <description>List of Ukrainian regions to use with Magento. &#xD;
+Added for English, Ukrainian &amp;amp; Russian language.</description>
+    <notes>Change description</notes>
+    <authors><author><name>Alex. [magefast.com]</name><user>alexhost</user><email>magento@magefast.com</email></author></authors>
+    <date>2015-04-04</date>
+    <time>09:34:07</time>
+    <contents><target name="mage"><dir name="app"><dir name="code"><dir name="community"><dir name="Magefast"><dir name="UkrainianRegions"><dir name="data"><dir name="ukrainianregions_setup"><file name="data-install-1.0.1.php" hash="8e2c6ba06dfd3cdd03da6740979e660d"/></dir><file name=".DS_Store" hash="2ecfec8b4090573b07cdf4bbaa727487"/></dir><dir name="etc"><file name="config.xml" hash="6fd3cd0296a1af4801aebdec65b01d75"/></dir><file name=".DS_Store" hash="30ce7e373ebfb3e4c6d7f07e481bd551"/></dir></dir></dir></dir><dir name="etc"><dir name="modules"><file name="Magefast_UkrainianRegions.xml" hash="f9800be98f103a2f6427e92d86df5da9"/></dir></dir></dir></target></contents>
     <compatible/>
     <dependencies><required><php><min>5.2.0</min><max>6.0.0</max></php></required></dependencies>
 </package>

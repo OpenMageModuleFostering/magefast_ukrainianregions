@@ -7,7 +7,7 @@
  * @title   Magento -> Ukrainian Regions
  * @category   Languages / Locales
  * @package Magefast_UkrainianRegions
- * @author  Alex
+ * @author  Alex. [magefast.com]
  * @license http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
  */
 
@@ -182,6 +182,3 @@ INSERT INTO `directory_country_region_name` (`locale`, `region_id`, `name`) VALU
 
 
 $installer->endSetup();
-
-
-
