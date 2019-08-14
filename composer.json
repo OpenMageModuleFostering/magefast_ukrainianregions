@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Magefast_UkrainianRegions",
+    "type": "magento-module",
+    "license": "OSL-v3.0",
+    "homepage": "",
+    "description": "List of Ukrainian regions.",
+    "authors": [
+    {
+        "name": "Alex",
+        "email": "b07400@yandex.ru"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
