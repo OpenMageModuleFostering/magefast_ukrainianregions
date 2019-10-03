@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Magefast_UkrainianRegions",
+    "name": "OpenMageModuleFostering\/Magefast_UkrainianRegions",
     "type": "magento-module",
     "license": "AFL",
     "homepage": "",
     "description": "List of Ukrainian regions",
     "authors": [
-    {
-        "name": "Alex. [magefast.com]",
-        "email": "magento@magefast.com"
-    }
-],
+        {
+            "name": "Alex. [magefast.com]",
+            "email": "magento@magefast.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
